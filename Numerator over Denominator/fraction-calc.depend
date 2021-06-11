@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1583177465 source:d:\code blocks\projects\fraction-calc\main.cpp
+	<iostream>
+	"Fraction.h"
+	"FractionCalculator.h"
+
+1584021827 source:d:\code blocks\projects\fraction-calc\fraction.cpp
+	"Fraction.h"
+	<iostream>
+	<cstdlib>
+	<math.h>
+
+1582931372 d:\code blocks\projects\fraction-calc\fraction.h
+	<iostream>
+
+1584021158 source:d:\code blocks\projects\fraction-calc\fractioncalculator.cpp
+	<iostream>
+	<stdlib.h>
+	"FractionCalculator.h"
+	"Fraction.h"
+
+1583177236 d:\code blocks\projects\fraction-calc\fractioncalculator.h
+
